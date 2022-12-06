@@ -1,5 +1,5 @@
 [package]
-name = "anigui.rs"
+name = "anigui"
 version = "0.0.1"
 edition = "2021"
 description = "anime downloader/streamer inspired by animdl, anime-downloader and anicli"

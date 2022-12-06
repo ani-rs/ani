@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rustproj"
-version = "0.1.0"
+name = "anigui"
+version = "0.0.1"
