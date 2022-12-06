@@ -1,7 +1,8 @@
 [package]
-name = "rustproj"
-version = "0.1.0"
+name = "anigui.rs"
+version = "0.0.1"
 edition = "2021"
+description = "anime downloader/streamer inspired by animdl, anime-downloader and anicli"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
