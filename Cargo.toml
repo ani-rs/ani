@@ -1,9 +1,14 @@
 [package]
-name = "anigui"
+name = "ani-rs"
 version = "0.0.1"
 edition = "2021"
-description = "anime downloader/streamer inspired by animdl, anime-downloader and anicli"
+description = "streamer/downloader inspired by animdl, anime-downloader and anicli"
+
+[[bin]]
+name = "runner"
+path = "src/runner.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+human-panic = "1.0.3"
