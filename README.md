@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=ani.rs&fontSize=70&desc=A%20simple,%20fast,%20efficient%20scraper,%20downloader,%20streamer,%20and%20grabber.&fontColor=005363&height=300&fontSize=100&animation=twinkling"/>
+[![logo](https://capsule-render.vercel.app/api?type=transparent&text=ani.rs&fontSize=50&desc=A%20simple,%20fast,%20efficient%20scraper,%20downloader,%20streamer,%20and%20grabber.&fontColor=005363&height=256&animation=twinkling)](https://github.com/h4rldev/ani.rs)
