@@ -4,6 +4,10 @@ version = "0.0.1"
 edition = "2021"
 description = "streamer/downloader inspired by animdl, anime-downloader and anicli"
 
+[lib]
+name = "anilib"
+path = "src/lib/lib.rs"
+
 [[bin]]
 name = "runner"
 path = "src/runner.rs"
@@ -12,3 +16,4 @@ path = "src/runner.rs"
 
 [dependencies]
 human-panic = "1.0.3"
+clap = { version = "4.0.29", features = ["derive"] }
