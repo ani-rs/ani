@@ -13,9 +13,13 @@ Cargo.lock
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
 */*.pdb
+
 # Executables
 *.exe
 **/*.exe
 
-# Trunk
+# Trunk cluttering the entire folder for some reason
 .trunk/*
+
+# VSCode being an idiot
+.vscode/*
