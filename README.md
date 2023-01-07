@@ -5,5 +5,5 @@
 </h1>
 
 <h2>
-    Will be featureless and most likely commitless for a while since I'm learning Rust.
+    Will not be worked on for a while since I'm still learning Rust.
 </h2>
